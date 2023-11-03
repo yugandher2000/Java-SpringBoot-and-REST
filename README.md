@@ -1,6 +1,6 @@
-**Project Title:** SpringRest Courses
+<h1>SpringRest Courses</h1>
 
-This is a simple RESTful API built with Spring Boot for managing courses. The API allows you to perform CRUD operations on courses.
+<b>This is a simple RESTful API built with Spring Boot for managing courses. The API allows you to perform CRUD operations on courses.</b>
 
 **Features**
 - Get all courses
@@ -34,7 +34,7 @@ Running the Application
           spring.jpa.show-sql=true
           spring.jpa.database-platform=org.hibernate.dialect.MySQLDialect
 
-# API Endpoints
+**API Endpoints**
 
 - GET /courses: Fetch all courses
 - GET /courses/{courseId}: Fetch a specific course by its ID
